@@ -1,0 +1,8 @@
+{Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power_tb.v} {1 {vlog -work ddk_deja_glitch_power {Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power_tb.v}
+Model Technology ModelSim ACTEL vlog 10.1c Compiler 2012.07 Jul 28 2012
+-- Compiling module glitch_power_tb
+
+Top level modules:
+	glitch_power_tb
+
+} {} {}}

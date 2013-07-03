@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\ddk\day3\ddk\sim
+vdeja_glitch_power
+Z1 InlZITUVAAVZVf_0;_QIl]3
+Z2 VRKT_k7^l]DoT8Poc`TmKG0
+Z3 dZ:\mike On My Mac\ddk\ddk-glitch\sim
+Z4 w1371929552
+Z5 8Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power.v
+Z6 FZ:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power.v
+L0 35
+Z7 OW;L;10.1c;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|ddk_deja_glitch_power|Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power.v|
+Z9 o-work ddk_deja_glitch_power -O0
+!i10b 1
+Z10 !s100 1[7:i<mQG6G5@cLhC?OXg3
+!s85 0
+Z11 !s108 1371929576.867000
+Z12 !s107 Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power.v|
+!s101 -O0
+vglitch_power_tb
+!i10b 1
+Z13 !s100 bd0[RPH^EJ::VhkdHcU=n2
+Z14 IaRoUH3^jTjFCXVC<_HB:^3
+Z15 Vgc>o6]1SDCC[cFe`ZEnVn1
+R3
+Z16 w1371883757
+Z17 8Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power_tb.v
+Z18 FZ:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power_tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1371929577.133000
+!s107 Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power_tb.v|
+Z19 !s90 -reportprogress|300|-work|ddk_deja_glitch_power|Z:/mike On My Mac/ddk/ddk-glitch/hdl/glitch_power_tb.v|
+!s101 -O0
+R9
